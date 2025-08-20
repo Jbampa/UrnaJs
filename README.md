@@ -51,7 +51,7 @@ A tela da urna é dividida em:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/urna-eletronica.git
+   git clone https://github.com/Jbampa/urnaJs.git
    ```
 
 2. Acesse o diretório do projeto:
@@ -127,7 +127,7 @@ The voting machine screen is divided into:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/electronic-voting-machine.git
+   git clone https://github.com/Jbampa/UrnaJs.git
    ```
 
 2. Go to the project directory:
