@@ -1,79 +1,3 @@
-### Portuguese (BR)
-
-# 🗳️ Urna Eletrônica
-
-Este é um projeto de simulação de **Urna Eletrônica** desenvolvido com **HTML, CSS e JavaScript**, recriando de forma interativa o funcionamento básico de uma urna usada em eleições.
-
----
-
-## 🚀 Funcionalidades
-
-- Interface semelhante à urna eletrônica oficial;
-- Exibição de candidatos com número, nome, partido e fotos;
-- Simulação de votos para **Vereador** e **Prefeito**;
-- Opções de **Voto em Branco**, **Corrige** e **Confirma**;
-- Feedback visual dinâmico ao digitar os números.
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-📦 urna-eletronica
-├── index.html       # Estrutura da urna
-├── style.css        # Estilos visuais
-├── etapas.js        # Configuração das etapas e candidatos
-├── script.js        # Lógica da urna (interações e fluxo de votação)
-└── images/          # Fotos dos candidatos
-```
-
----
-
-## 🖼️ Demonstração da Interface
-
-A tela da urna é dividida em:
-
-- **Tela principal** → mostra informações do candidato, foto e mensagens de confirmação.
-- **Teclado numérico** → botões interativos para inserir o voto.
-- **Botões especiais** → BRANCO, CORRIGE e CONFIRMA, funcionando como na urna real.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML5** → estrutura da aplicação
-- **CSS3** → estilização e layout
-- **JavaScript (ES6+)** → lógica e interação do sistema
-
----
-
-## ▶️ Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Jbampa/urnaJs.git
-   ```
-
-2. Acesse o diretório do projeto:
-   ```bash
-   cd urna-eletronica
-   ```
-
-3. Abra o arquivo `index.html` no navegador:
-   ```bash
-   open index.html   # Mac
-   start index.html  # Windows
-   xdg-open index.html  # Linux
-   ```
-
----
-
-## 📌 Objetivo
-
-Este projeto tem fins **didáticos** e serve como prática de **JavaScript**, **manipulação de DOM** e **criação de interfaces interativas**.
-
-====================================
-
 ### English (USA)
 
 # 🗳️ Electronic Voting Machine
@@ -150,4 +74,76 @@ This project is **educational** and aims to practice **JavaScript**, **DOM manip
 
 ---
 
+### Portuguese (BR)
 
+# 🗳️ Urna Eletrônica
+
+Este é um projeto de simulação de **Urna Eletrônica** desenvolvido com **HTML, CSS e JavaScript**, recriando de forma interativa o funcionamento básico de uma urna usada em eleições.
+
+---
+
+## 🚀 Funcionalidades
+
+- Interface semelhante à urna eletrônica oficial;
+- Exibição de candidatos com número, nome, partido e fotos;
+- Simulação de votos para **Vereador** e **Prefeito**;
+- Opções de **Voto em Branco**, **Corrige** e **Confirma**;
+- Feedback visual dinâmico ao digitar os números.
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+📦 urna-eletronica
+├── index.html       # Estrutura da urna
+├── style.css        # Estilos visuais
+├── etapas.js        # Configuração das etapas e candidatos
+├── script.js        # Lógica da urna (interações e fluxo de votação)
+└── images/          # Fotos dos candidatos
+```
+
+---
+
+## 🖼️ Demonstração da Interface
+
+A tela da urna é dividida em:
+
+- **Tela principal** → mostra informações do candidato, foto e mensagens de confirmação.
+- **Teclado numérico** → botões interativos para inserir o voto.
+- **Botões especiais** → BRANCO, CORRIGE e CONFIRMA, funcionando como na urna real.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** → estrutura da aplicação
+- **CSS3** → estilização e layout
+- **JavaScript (ES6+)** → lógica e interação do sistema
+
+---
+
+## ▶️ Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Jbampa/urnaJs.git
+   ```
+
+2. Acesse o diretório do projeto:
+   ```bash
+   cd urna-eletronica
+   ```
+
+3. Abra o arquivo `index.html` no navegador:
+   ```bash
+   open index.html   # Mac
+   start index.html  # Windows
+   xdg-open index.html  # Linux
+   ```
+
+---
+
+## 📌 Objetivo
+
+Este projeto tem fins **didáticos** e serve como prática de **JavaScript**, **manipulação de DOM** e **criação de interfaces interativas**.
